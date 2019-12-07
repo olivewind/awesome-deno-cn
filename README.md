@@ -53,6 +53,7 @@
 - [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
+- [dvm](https://github.com/imbsky/dvm) - Fast and simple Deno runtime version manager written in Native Reason.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 
 
