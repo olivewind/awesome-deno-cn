@@ -1,6 +1,8 @@
-# Awesome-Deno 中文
+简体中文 | [English](https://github.com/denolib/awesome-deno)
 
-> 一份精心编辑的 [Deno](https://github.com/olivewind/awesome-deno-cn) 相关清单，[denolib/awesome-deno](https://github.com/denolib/awesome-deno) 的中文翻译。
+# Awesome-Deno
+
+> 一份精心编辑的 [Deno](https://github.com/olivewind/awesome-deno-cn) 相关清单。
 
 - [文档](#docs)
     - [官方文档](#官方文档)
