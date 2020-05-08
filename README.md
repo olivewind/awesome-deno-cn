@@ -1,6 +1,6 @@
 # Awesome-Deno 中文
 
-> 一份精心编辑的 [Deno](https://github.com/olivewind/awesome-deno) 相关清单。
+> 一份精心编辑的 [Deno](https://github.com/olivewind/awesome-deno-cn) 相关清单。
 
 - [文档](#docs)
     - [官方文档](#官方文档)
